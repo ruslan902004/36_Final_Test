@@ -179,3 +179,12 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1638710513047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: http://selenium1py.pythonanywhere.com/es/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
 1638710514661	Marionette	INFO	Stopped listening on port 43463
+1638711127377	geckodriver	INFO	Listening on 127.0.0.1:59971
+1638711127383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileT9ynpQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638711127947	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT9ynpQ/search.json.mozlz4", (void 0)))
+1638711129289	Marionette	INFO	Listening on port 41737
+1638711129363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/es/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1638711131218	Marionette	INFO	Stopped listening on port 41737
